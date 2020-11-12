@@ -1,5 +1,6 @@
 {
   "name": "angular-rxjs",
+  "author": "Dmitry Grinko",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
